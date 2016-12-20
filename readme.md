@@ -1,4 +1,4 @@
-To ran tests:
+To run tests:
 ```
 npm i
 npm test
